@@ -21,6 +21,7 @@
   TERMINAL
 
 5 - yarn add uikit
+
 6-  yarn start
 
 
