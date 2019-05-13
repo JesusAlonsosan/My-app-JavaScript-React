@@ -3,6 +3,7 @@
   TERMINAL
   
   
+  
 1 - npx create-reatc-app My-app-JavaScript-React
 
 2 - npm -g install yarn
@@ -11,6 +12,7 @@
 
 
   ADD IUKIT
+  
 
 4 - VSCODE
     App.js
@@ -19,6 +21,7 @@
    
    
   TERMINAL
+  
 
 5 - yarn add uikit
 
